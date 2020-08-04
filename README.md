@@ -3,7 +3,7 @@
 
 Sou analista e desenvolvedor com experiência em Java back-end desde 2015. ☕  
 Apaixonado por tecnologia. 💻  
-Atualmente estou empolgado e aprendendo front-end.<img width="24px" src="https://github.com/limarcelo/limarcelo/blob/master/react.png">
+Atualmente estou bem empolgado no aprendizado front-end.<img width="24px" src="https://github.com/limarcelo/limarcelo/blob/master/react.png">
 <img width="16px" src="https://github.com/limarcelo/limarcelo/blob/master/flutter.jpg.png"> 
 <img width="16px" src="https://github.com/limarcelo/limarcelo/blob/master/js.png"> 
  <img width="16px" src="https://github.com/limarcelo/limarcelo/blob/master/nodejs.png">  
